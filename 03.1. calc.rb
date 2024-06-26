@@ -1,7 +1,7 @@
-print "Digite o primeiro n°: "
+print 'Digite o primeiro n°: '
 number1 = gets.chomp.to_i
 
-print "Digite o segundo n°: "
+print 'Digite o segundo n°: '
 number2 = gets.chomp.to_i
 
 addition = number1 + number2
