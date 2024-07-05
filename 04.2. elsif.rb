@@ -1,0 +1,10 @@
+day = 'Monday'
+
+if day == 'Sunday'
+  lunch = 'Special'
+elsif day == 'Holiday'
+  lunch = 'Later'
+else lunch = 'Normal'
+end
+
+puts "Lunch is #{lunch}"
